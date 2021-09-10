@@ -16,10 +16,10 @@ body {
     padding: 10% 20%;
     text-align: justify;
     font-size: 20px;
-    font-weight: 200;
+    font-weight: 300;
 }
 
 .name {
-    font-size: 5em;
+    font-size:auto;
     font-weight: 500;
 }
