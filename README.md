@@ -2,4 +2,4 @@
 
 
 url 
-https://mr-ajaychauhan.github.io/portfolio/
+https://mr-ajaychauhan.github.io/portfolio
